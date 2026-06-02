@@ -1,7 +1,7 @@
 # 🪐 About me
 
 ```js
-import Desenvolvedor from "marceloreginato";
+import Developer from "marceloreginato";
 
 class AboutMe extends Developer {
   name = "Marcelo Eduardo Reginato";
