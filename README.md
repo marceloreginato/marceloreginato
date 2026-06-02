@@ -3,16 +3,16 @@
 ```js
 import Desenvolvedor from "marceloreginato";
 
-class SobreMim extends Desenvolvedor {
-  nome = "Marcelo Eduardo Reginato";
-  area = "Engenharia de Computação";
+class AboutMe extends Developer {
+  name = "Marcelo Eduardo Reginato";
+  area = "Computer Engineering";
   local = "São Carlos, SP";
-  foco = "Aprendizado de Máquina, Redes Neurais, Desenvolvimento & IA";
+  focus = "Machine Learning, Artificial Neural Networks, Development & AI";
 }
 
-class Skills extends Desenvolvedor {
-  linguagens = ["Python, SQL, Java, C, HTML, CSS"];
-  bibliotecas = ["pandas, numpy, matplotlib, scikit-learn"];
+class Skills extends Developer {
+  lenguages = ["Python, SQL, Java, C, HTML, CSS"];
+  libraries = ["Pandas, Numpy, Matplotlib, Scikit-learn"];
   frameworks = ["LangChain, PyTorch"];
 }
 ```
