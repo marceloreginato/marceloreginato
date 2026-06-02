@@ -11,7 +11,7 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  lenguages = ["Python, SQL, Java, C, HTML, CSS"];
+  languages = ["Python, SQL, Java, C, HTML, CSS"];
   libraries = ["Pandas, Numpy, Matplotlib, Scikit-learn"];
   frameworks = ["LangChain, PyTorch"];
 }
