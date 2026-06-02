@@ -16,12 +16,6 @@ class Skills extends Desenvolvedor {
   frameworks = ["LangChain, PyTorch"];
 }
 ```
-## 📊 Activity Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marceloreginato&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
 ## 📬 Contact
 
 <p align="left">
